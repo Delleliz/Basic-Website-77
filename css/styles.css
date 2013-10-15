@@ -1,3 +1,39 @@
+.container_12 {
+	background : pink ;
+}
+/* LOGO */
+#logo {
+	background : #F03 ;
+}
+
+img {
+	border : 10px solid black ;
+	padding : 10px ;
+	margin : 20px ;
+	border-radius : 100px ;
+}
+
+/* CO. NAME*/
+
+#coname {
+	background : #F39 ;
+}
+
+/* NAV */
+
+#nav {
+	background : #000 ;
+}
+
+/* ASIDE */
+#aside {
+	background : #9C3 ;
+}
+
+#main {
+	background : #FCF ;
+}
+
 /* Main Navigation */
 
 li {
